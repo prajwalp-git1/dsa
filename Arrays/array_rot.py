@@ -1,4 +1,4 @@
-
+#array_rotation
 def array_rotate(arr, d, direction):
     n = len(arr)
     d = d % n  # Handle cases where d >= n
